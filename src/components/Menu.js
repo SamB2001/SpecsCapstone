@@ -1,3 +1,4 @@
+import Leaderboard from "./Leaderboard"
 import "./Menu.css"
 
 const Menu = ({ onClick }) => {
@@ -6,6 +7,7 @@ const Menu = ({ onClick }) => {
         <button className="Button" onClick={onClick}>
             Play Tetris
         </button>
+        <Leaderboard/>
     </div>
  )
 }
