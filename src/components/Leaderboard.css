@@ -1,0 +1,10 @@
+.leaderboard {
+    position: relative;
+    bottom: -120px;
+    left: -60px;
+    padding: 40px 80px;
+    font-size: 0.5em;
+    border-radius: 20px;
+    border: none;
+    box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 60px;
+}
